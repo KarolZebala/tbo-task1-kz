@@ -10,7 +10,7 @@ Podatność ta występuję w sposób analogiczny podczas edycji książki
 Analogiczna podatność występuje podczas dodawania klientów
 ![AddCustomer](AddCustomer.png)
 Skrypt wykona się podczas wyświetlania listy
-![ReadCustomer](ReadCustomerpng)
+![ReadCustomer](ReadCustomer.png)
 Podatność ta występuję w sposób analogiczny podczas edycji klienta
 
 ## Wypozyczenia
