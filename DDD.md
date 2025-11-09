@@ -30,7 +30,7 @@ konteksty, agregaty, oraz obiekty wartości. Nalezy dla atrybutów encji określ
 |numer kliennta|string|UUID|
 |imie|string|znaki alfabetyczne, maksymalna długość = 100|
 |nazwisko|string|znaki alfabetyczne, maksymalna długość = 100|
-|adres|Adres|[Zobacz Adres](#klient)|
+|adres|Adres|[Zobacz Adres](#adres)|
 
 ## Obiekty wartości
 ### Numer rachunku
