@@ -4,7 +4,7 @@ przelewami między kontami bankowymi wykorzystując Domain Driven Design. Podcza
 konteksty, agregaty, oraz obiekty wartości. Nalezy dla atrybutów encji określić akceptowalne formaty danych.
 
 # Diagram modelu
-![diagram](DDD_bank_diagram.png)
+![DDD_bank_diagram](https://raw.githubusercontent.com/KarolZebala/tbo-task1-kz/refs/heads/main/DDD_bank_diagram.png)
 # Tabele
 ## Agregaty
 ### Konto bankowe
